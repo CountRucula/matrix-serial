@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/platformio/platformio-core/develop/platformio/assets/schema/library.json",
   "name": "Matrix-Serial",
   "version": "1.0.0",
   "description": "",
@@ -17,7 +18,7 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "erriez/ErriezCRC32": "~1.0.1"
+    "erriez/ErriezCRC32": "1.0.1"
   },
   "frameworks": "arduino",
   "platforms": "https://github.com/maxgerhardt/platform-raspberrypi.git"
