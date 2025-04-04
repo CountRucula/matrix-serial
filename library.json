@@ -1,0 +1,21 @@
+{
+  "name": "Matrix-Serial",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": "serial, matrix",
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/CountRucula/matrix-serial.git"
+  },
+  "authors":
+  [
+    {
+      "name": "CountRucula",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "*",
+  "platforms": "*"
+}
