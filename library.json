@@ -16,6 +16,9 @@
     }
   ],
   "license": "MIT",
-  "frameworks": "*",
-  "platforms": "*"
+  "dependencies": {
+    "erriez/ErriezCRC32": "~1.0.1"
+  },
+  "frameworks": "arduino",
+  "platforms": "https://github.com/maxgerhardt/platform-raspberrypi.git"
 }
