@@ -1,7 +1,7 @@
 #pragma once
 
 #include <Arduino.h>
-#include "Signals.h"
+#include "serial/signals.h"
 
 namespace com
 {

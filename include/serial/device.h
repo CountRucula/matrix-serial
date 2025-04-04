@@ -1,7 +1,7 @@
 #pragma once
 
-#include "Link.h"
-#include "Signals.h"
+#include "serial/link.h"
+#include "serial/signals.h"
 
 namespace com
 {

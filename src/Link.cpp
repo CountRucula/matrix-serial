@@ -1,6 +1,7 @@
-#include "Link.h"
 #include "ErriezCRC32.h"
 #include <tusb.h>
+
+#include "serial/link.h"
 
 #define HEADER 0x7E
 #define FOOTER 0x7E

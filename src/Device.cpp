@@ -1,4 +1,4 @@
-#include "Device.h"
+#include "serial/device.h"
 
 namespace com
 {
